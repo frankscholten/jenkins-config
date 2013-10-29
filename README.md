@@ -20,6 +20,10 @@ jenkins_jdk { "JDK7":
 }
 ```
 
+## Blog
+
+Read my accompanying <a href="http://blog.trifork.com/2013/10/29/puppet-from-the-trenches-how-to-prevent-overwritten-user-configuration-with-a-custom-type/">blog entry</a> on the topic for more background information.
+
 ## Show me!
 
 
